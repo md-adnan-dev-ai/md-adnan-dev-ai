@@ -8,11 +8,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1442,55:6C3FD4,80:D4467A,100:F2994A&height=280&section=header&text=MD%20ADNAN&fontSize=90&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%E2%80%94%20Bangladesh&descSize=19&descColor=F0E8FF&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1442,55:6C3FD4,80:D4467A,100:F2994A&height=280&section=header&text=MD%20ADNAN&fontSize=90&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Aspiring%20MERN%20Stack%20Developer%20%E2%80%94%20Bangladesh&descSize=19&descColor=F0E8FF&descAlignY=60" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=2000&color=D4467A&center=true&vCenter=true&width=760&lines=Turning+ideas+into+shipped+products%2C+one+repo+at+a+time;Currently+building%3A+an+Inventory+Management+System;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=2000&color=D4467A&center=true&vCenter=true&width=760&lines=Diploma+in+Computer+Technology+%E2%80%94+Tangail+Polytechnic;Currently+building%3A+an+Inventory+Management+System;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js" />
 
 <br/><br/>
 
@@ -34,11 +34,11 @@
 
 ## Hey, I'm Adnan.
 
-I build full stack web applications — mostly in the **MERN stack** — and I'm currently deep in building an **Inventory Management System** that handles stock, orders, and reporting from one dashboard.
+I'm a Computer Technology student at **Tangail Polytechnic Institute**, currently finishing my Diploma in Engineering. Alongside my studies, I'm building hands-on skills as a **MERN Stack Developer** and right now I'm deep in building an **Inventory Management System** that handles stock, orders, and reporting from one dashboard.
 
-The part I enjoy most isn't the framework of the week, it's the connective tissue: a schema that holds up under real data, an API that doesn't surprise the frontend, a UI that doesn't need a tutorial. I contribute to open-source projects when I find a bug worth fixing or a feature worth adding.
+I'm also doing a training program at an **Industrial E-Learning & Earning** institute, sharpening my practical skills beyond the classroom. I enjoy the full picture of a web app — a schema that holds up under real data, an API that doesn't surprise the frontend, a UI that doesn't need a tutorial.
 
-**I'm currently open to full-time roles and freelance work** — if you're hiring or have a project in mind, my inbox is linked below.
+**I'm currently open to internships, entry-level roles, and freelance work** — if you're hiring or have a project in mind, my inbox is linked below.
 
 </td>
 <td width="38%" valign="top">
@@ -47,10 +47,10 @@ The part I enjoy most isn't the framework of the week, it's the connective tissu
 
 ```
 ┌──────────────────────┐
-│   status: building   │
-│   stack:   MERN       │
-│   based:   BD 🇧🇩      │
-│   open:    to work ✓  │
+│  status:   learning   │
+│  stack:    MERN       │
+│  based:    BD 🇧🇩      │
+│  open:     to work ✓  │
 └──────────────────────┘
 ```
 
@@ -73,6 +73,35 @@ The part I enjoy most isn't the framework of the week, it's the connective tissu
 <td align="center" width="20%"><strong>SERVER</strong><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
 <td align="center" width="20%"><strong>DATA</strong><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></td>
 <td align="center" width="20%"><strong>WORKFLOW</strong><br/><br/><img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3FD4,50:D4467A,100:F2994A&height=3&width=100%25" />
+
+<br/><br/>
+
+## Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Diploma in Engineering
+**Tangail Polytechnic Institute**
+Computer Technology · 2022 – 2026
+CGPA 3.39 / 4.00 (6th semester)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Secondary School Certificate
+**Kalihati R. S. Gov. Pilot Model High School**
+Computer & Information Technology · 2022
+GPA 5.00 / 5.00
+
+</td>
 </tr>
 </table>
 
@@ -180,8 +209,7 @@ One real sentence on what this does and why it exists — not just the stack.
 
 <a href="https://github.com/md-adnan-dev"><img src="https://img.shields.io/badge/GitHub-md--adnan--dev-1a1442?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:md.adnan.web@gmail.com"><img src="https://img.shields.io/badge/Email-md.adnan.web%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-D4467A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
@@ -189,7 +217,7 @@ One real sentence on what this does and why it exists — not just the stack.
 <br/>
 
 <div align="center">
-<sub>Dhaka, Bangladesh 🇧🇩 · open to full-time and freelance work</sub>
+<sub>Tangail, Bangladesh 🇧🇩 · open to internships and freelance work</sub>
 </div>
 
 <br/>
