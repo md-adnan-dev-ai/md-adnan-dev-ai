@@ -6,141 +6,109 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D5C,70:117A8B,100:58C4E0&height=260&section=header&text=MD%20ADNAN&fontSize=78&fontColor=E6EDF3&fontAlignY=36&fontStyle=bold&desc=Full%20Stack%20Developer%20building%20with%20the%20MERN%20stack&descSize=17&descAlignY=58&animation=fadeIn" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1442,55:6C3FD4,80:D4467A,100:F2994A&height=280&section=header&text=MD%20ADNAN&fontSize=90&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%E2%80%94%20Bangladesh&descSize=19&descColor=F0E8FF&descAlignY=60" />
 
 <br/>
 
-<a href="https://github.com/md-adnan-dev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2200&color=8FD3E8&center=true&vCenter=true&width=720&lines=const+role+%3D+%22Full+Stack+Developer%22%3B;const+stack+%3D+%5B%22MongoDB%22%2C+%22Express%22%2C+%22React%22%2C+%22Node%22%5D%3B;const+currentlyBuilding+%3D+%22Inventory+Management+System%22%3B;const+location+%3D+%22Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%3B" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=2000&color=D4467A&center=true&vCenter=true&width=760&lines=Turning+ideas+into+shipped+products%2C+one+repo+at+a+time;Currently+building%3A+an+Inventory+Management+System;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmd-adnan-dev&query=%24.public_repos&style=for-the-badge&label=REPOSITORIES&labelColor=0D1117&color=58C4E0" />&nbsp;
-<img src="https://img.shields.io/github/followers/md-adnan-dev?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=58C4E0" />&nbsp;
-<img src="https://komarev.com/ghpvc/?username=md-adnan-dev&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117&color=58C4E0" />
+<a href="https://github.com/md-adnan-dev?tab=followers"><img src="https://img.shields.io/github/followers/md-adnan-dev?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=1a1442&color=6C3FD4" /></a>&nbsp;
+<a href="https://github.com/md-adnan-dev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmd-adnan-dev&query=%24.public_repos&style=for-the-badge&label=REPOS&labelColor=1a1442&color=6C3FD4" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=md-adnan-dev&style=for-the-badge&label=VIEWS&labelColor=1a1442&color=D4467A" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3FD4,50:D4467A,100:F2994A&height=3&width=100%25" />
 
-<br/>
-
-## 01 · Who I am
+<br/><br/>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-I'm a full stack developer based in **Bangladesh**, working mainly in the **MERN stack** — MongoDB, Express, React, and Node.js. Right now I'm deep into building an **Inventory Management System**: stock tracking, order flow, and reporting, all tied together in one dashboard.
+## Hey, I'm Adnan.
 
-I like the backend as much as the frontend — designing a schema that holds up under real data matters to me as much as a UI that feels obvious to use. Outside of my own projects, I contribute to open-source repos when I find something worth improving.
+I build full stack web applications — mostly in the **MERN stack** — and I'm currently deep in building an **Inventory Management System** that handles stock, orders, and reporting from one dashboard.
 
-**Currently open to full-time roles and freelance work.**
+The part I enjoy most isn't the framework of the week, it's the connective tissue: a schema that holds up under real data, an API that doesn't surprise the frontend, a UI that doesn't need a tutorial. I contribute to open-source projects when I find a bug worth fixing or a feature worth adding.
+
+**I'm currently open to full-time roles and freelance work** — if you're hiring or have a project in mind, my inbox is linked below.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-```yaml
-developer:
-  name: Md Adnan
-  based_in: Bangladesh
-  focus: MERN Stack
-  building_now: >
-    Inventory Management
-    System
-  looking_for: >
-    Full-time / Freelance
-    opportunities
-  responds_to: >
-    github issues,
-    linkedin, email
+<div align="center">
+
+```
+┌──────────────────────┐
+│   status: building   │
+│   stack:   MERN       │
+│   based:   BD 🇧🇩      │
+│   open:    to work ✓  │
+└──────────────────────┘
 ```
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=md-adnan-dev&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=D4467A&icon_color=6C3FD4&text_color=C9D1D9&hide_title=true&hide_rank=true" />
+
+</div>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 02 · How I build
+## Stack
 
 <table width="100%">
 <tr>
-<td align="center" width="20%">
-
-**Client**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br/><br/>
-HTML · CSS<br/>JavaScript · React
-
-</td>
-<td align="center" width="20%">
-
-**Styling**
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br/><br/>
-Tailwind CSS<br/>Bootstrap
-
-</td>
-<td align="center" width="20%">
-
-**Server**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/><br/>
-Node.js<br/>Express.js
-
-</td>
-<td align="center" width="20%">
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br/><br/>
-MongoDB<br/>MySQL
-
-</td>
-<td align="center" width="20%">
-
-**Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" /><br/><br/>
-Git · GitHub<br/>Linux · Figma
-
-</td>
+<td align="center" width="20%"><strong>CLIENT</strong><br/><br/><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+<td align="center" width="20%"><strong>STYLING</strong><br/><br/><img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /></td>
+<td align="center" width="20%"><strong>SERVER</strong><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+<td align="center" width="20%"><strong>DATA</strong><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></td>
+<td align="center" width="20%"><strong>WORKFLOW</strong><br/><br/><img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" /></td>
 </tr>
 </table>
 
 <br/>
 
-## 03 · What I'm building
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3FD4,50:D4467A,100:F2994A&height=3&width=100%25" />
 
-> Swap the names and one-line descriptions below for your real repositories — the pinned card below each one breaks if the repo name doesn't match exactly.
+<br/><br/>
+
+## Projects I'm proud of
+
+> Swap the repo names and the one-line pitch for each project below with your real ones — pinned cards break if the name doesn't match exactly.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Inventory Management System
-MERN-based dashboard for tracking stock, processing orders, and generating reports from one place. The project I'm actively shipping features on right now.
+### 🟣 Inventory Management System
+MERN-based dashboard for tracking stock, processing orders, and generating reports — the project I'm actively shipping features on right now.
 
 `MongoDB` `Express` `React` `Node.js`
 
 <a href="https://github.com/md-adnan-dev/inventory-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=inventory-management-system&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=inventory-management-system&theme=radical&hide_border=true&title_color=D4467A&icon_color=6C3FD4&bg_color=00000000&text_color=C9D1D9" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### REPO-NAME-2
-One line on what this project actually does and why it exists — not just the stack it's built with.
+### 🟣 REPO-NAME-2
+One real sentence on what this does and why it exists — not just the stack.
 
 `Stack` `Goes` `Here`
 
 <a href="https://github.com/md-adnan-dev/REPO-NAME-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-2&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-2&theme=radical&hide_border=true&title_color=D4467A&icon_color=6C3FD4&bg_color=00000000&text_color=C9D1D9" />
 </a>
 
 </td>
@@ -148,25 +116,25 @@ One line on what this project actually does and why it exists — not just the s
 <tr>
 <td width="50%" valign="top">
 
-### REPO-NAME-3
-One line on what this project actually does and why it exists — not just the stack it's built with.
+### 🟣 REPO-NAME-3
+One real sentence on what this does and why it exists — not just the stack.
 
 `Stack` `Goes` `Here`
 
 <a href="https://github.com/md-adnan-dev/REPO-NAME-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-3&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-3&theme=radical&hide_border=true&title_color=D4467A&icon_color=6C3FD4&bg_color=00000000&text_color=C9D1D9" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### REPO-NAME-4
-One line on what this project actually does and why it exists — not just the stack it's built with.
+### 🟣 REPO-NAME-4
+One real sentence on what this does and why it exists — not just the stack.
 
 `Stack` `Goes` `Here`
 
 <a href="https://github.com/md-adnan-dev/REPO-NAME-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-4&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-4&theme=radical&hide_border=true&title_color=D4467A&icon_color=6C3FD4&bg_color=00000000&text_color=C9D1D9" />
 </a>
 
 </td>
@@ -175,53 +143,55 @@ One line on what this project actually does and why it exists — not just the s
 
 <br/>
 
-## 04 · Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3FD4,50:D4467A,100:F2994A&height=3&width=100%25" />
+
+<br/><br/>
+
+## Activity
 
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-adnan-dev&bg_color=0D1117&color=58C4E0&line=117A8B&point=E6EDF3&area=true&area_color=0B3D5C&hide_border=true&custom_title=" />
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-adnan-dev&bg_color=0D1117&color=D4467A&line=6C3FD4&point=F2994A&area=true&area_color=6C3FD4&hide_border=true&custom_title=" />
 </div>
 
 <table width="100%">
 <tr>
-<td width="34%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=md-adnan-dev&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58C4E0&icon_color=58C4E0&text_color=C9D1D9&include_all_commits=true&rank_icon=github" />
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-adnan-dev&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=D4467A&text_color=C9D1D9&langs_count=8" />
 </td>
-<td width="33%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-adnan-dev&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58C4E0&text_color=C9D1D9&langs_count=8" />
-</td>
-<td width="33%">
-<img width="100%" height="200" src="https://streak-stats.demolab.com?user=md-adnan-dev&hide_border=true&background=00000000&ring=58C4E0&fire=58C4E0&currStreakLabel=58C4E0&sideLabels=C9D1D9&dates=6e7681" />
+<td width="50%">
+<img width="100%" src="https://streak-stats.demolab.com?user=md-adnan-dev&hide_border=true&background=00000000&ring=D4467A&fire=F2994A&currStreakLabel=D4467A&sideLabels=C9D1D9&dates=6e7681" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=md-adnan-dev&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=md-adnan-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </div>
 
 <br/>
 
-## 05 · Elsewhere
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3FD4,50:D4467A,100:F2994A&height=3&width=100%25" />
+
+<br/><br/>
+
+## Let's talk
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-md--adnan--dev-0D1117?style=for-the-badge&logo=github&logoColor=58C4E0)](https://github.com/md-adnan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Gmail](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=58C4E0)](https://YOUR-PORTFOLIO.com)
+<a href="https://github.com/md-adnan-dev"><img src="https://img.shields.io/badge/GitHub-md--adnan--dev-1a1442?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-D4467A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <div align="center">
-<br/>
-<sub>Dhaka, Bangladesh · open to full-time and freelance work</sub>
+<sub>Dhaka, Bangladesh 🇧🇩 · open to full-time and freelance work</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58C4E0,30:117A8B,65:0B3D5C,100:0D1117&height=140&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F2994A,25:D4467A,60:6C3FD4,100:0D1117&height=150&section=footer" />
