@@ -1,205 +1,227 @@
 <!-- =====================================================
   GitHub Profile README — md-adnan-dev
   Repo: md-adnan-dev/md-adnan-dev  (must be public)
-  EDIT: search "YOUR-" to personalize links
+  EDIT: search "YOUR-" and "REPO-NAME" to personalize
 ====================================================== -->
 
-<!-- ══════════════════ HEADER ══════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a3d62,100:58C4E0&height=220&section=header&text=Md%20Adnan&fontSize=70&fontColor=E6EDF3&fontAlignY=40&fontStyle=bold&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=20&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0B3D5C,70:117A8B,100:58C4E0&height=260&section=header&text=MD%20ADNAN&fontSize=78&fontColor=E6EDF3&fontAlignY=36&fontStyle=bold&desc=Full%20Stack%20Developer%20building%20with%20the%20MERN%20stack&descSize=17&descAlignY=58&animation=fadeIn" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/md-adnan-dev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=58C4E0&center=true&vCenter=true&width=700&lines=console.log('Hello%2C+World!+%F0%9F%91%8B');+%2F%2F+Md+Adnan;const+stack+%3D+%5B'MongoDB'%2C+'Express'%2C+'React'%2C+'Node'%5D;+%E2%9C%85;Building+scalable+web+apps+%7C+Open+Source+%F0%9F%9A%80;Always+learning%2C+always+shipping+%F0%9F%93%A6" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2200&color=8FD3E8&center=true&vCenter=true&width=720&lines=const+role+%3D+%22Full+Stack+Developer%22%3B;const+stack+%3D+%5B%22MongoDB%22%2C+%22Express%22%2C+%22React%22%2C+%22Node%22%5D%3B;const+currentlyBuilding+%3D+%22Inventory+Management+System%22%3B;const+location+%3D+%22Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%3B" />
 </a>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=md-adnan-dev&label=Profile+Views&color=58C4E0&style=flat-square)](https://github.com/md-adnan-dev)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/md-adnan-dev?label=Followers&style=flat-square&color=58C4E0&labelColor=1C2128)](https://github.com/md-adnan-dev?tab=followers)
-&nbsp;&nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmd-adnan-dev&query=%24.public_repos&label=Public+Repos&style=flat-square&color=58C4E0&labelColor=1C2128)](https://github.com/md-adnan-dev?tab=repositories)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmd-adnan-dev&query=%24.public_repos&style=for-the-badge&label=REPOSITORIES&labelColor=0D1117&color=58C4E0" />&nbsp;
+<img src="https://img.shields.io/github/followers/md-adnan-dev?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=58C4E0" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=md-adnan-dev&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117&color=58C4E0" />
 
 </div>
 
 <br/>
 
----
-
-<!-- ══════════════════ ABOUT ══════════════════ -->
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-```javascript
-// md-adnan-dev — developer.js
-
-const adnan = {
-  name    : "Md Adnan",
-  role    : "Full Stack Developer",
-  location: "Bangladesh 🇧🇩",
-  stack   : ["MongoDB", "Express.js",
-             "React.js", "Node.js"],
-  styling : ["Tailwind CSS", "Bootstrap"],
-  building: "Inventory Management System",
-  goal    : "Write code that scales",
-  status  : "Open to opportunities 🟢"
-};
-
-adnan.code();  // always shipping 🚀
-```
-
-</td>
-<td width="48%" valign="top">
-
-**What drives me:**
-
-- 🔨 Architecting full-stack apps end-to-end
-- 🎯 Writing clean, maintainable JavaScript
-- 🌍 Contributing to open-source communities
-- 📐 Designing intuitive UIs users actually enjoy
-- 🗄️ Modeling efficient database schemas
-- 📈 Turning ideas into production-ready products
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+## 01 · Who I am
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+I'm a full stack developer based in **Bangladesh**, working mainly in the **MERN stack** — MongoDB, Express, React, and Node.js. Right now I'm deep into building an **Inventory Management System**: stock tracking, order flow, and reporting, all tied together in one dashboard.
+
+I like the backend as much as the frontend — designing a schema that holds up under real data matters to me as much as a UI that feels obvious to use. Outside of my own projects, I contribute to open-source repos when I find something worth improving.
+
+**Currently open to full-time roles and freelance work.**
+
+</td>
+<td width="42%" valign="top">
+
+```yaml
+developer:
+  name: Md Adnan
+  based_in: Bangladesh
+  focus: MERN Stack
+  building_now: >
+    Inventory Management
+    System
+  looking_for: >
+    Full-time / Freelance
+    opportunities
+  responds_to: >
+    github issues,
+    linkedin, email
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ══════════════════ TECH STACK ══════════════════ -->
+## 02 · How I build
 
-## 🛠️ Tech Stack
+<table width="100%">
+<tr>
+<td align="center" width="20%">
 
-<div align="center">
+**Client**
 
-| Layer | Technologies |
-|-------|-------------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br/><br/>
+HTML · CSS<br/>JavaScript · React
 
-</div>
+</td>
+<td align="center" width="20%">
 
----
+**Styling**
 
-<!-- ══════════════════ GITHUB ANALYTICS ══════════════════ -->
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br/><br/>
+Tailwind CSS<br/>Bootstrap
 
-## 📊 GitHub Analytics
+</td>
+<td align="center" width="20%">
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img height="190"
-        src="https://github-readme-stats.vercel.app/api?username=md-adnan-dev&show_icons=true&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&text_color=E6EDF3&bg_color=0D1117&include_all_commits=true&rank_icon=github&ring_color=58C4E0" />
-    </td>
-    <td align="center">
-      <img height="190"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-adnan-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58C4E0&text_color=E6EDF3&bg_color=0D1117" />
-    </td>
-  </tr>
+**Server**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/><br/>
+Node.js<br/>Express.js
+
+</td>
+<td align="center" width="20%">
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br/><br/>
+MongoDB<br/>MySQL
+
+</td>
+<td align="center" width="20%">
+
+**Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" /><br/><br/>
+Git · GitHub<br/>Linux · Figma
+
+</td>
+</tr>
 </table>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=md-adnan-dev&theme=github-dark-blue&hide_border=true&ring=58C4E0&fire=58C4E0&currStreakLabel=58C4E0&sideLabels=E6EDF3&dates=8b949e&background=0D1117" />
-</div>
 
 <br/>
 
-<div align="center">
-  <img width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=md-adnan-dev&bg_color=0D1117&color=58C4E0&line=0a3d62&point=58C4E0&area=true&area_color=0a3d62&hide_border=true&custom_title=Contribution+Graph" />
-</div>
+## 03 · What I'm building
 
-<br/>
+> Swap the names and one-line descriptions below for your real repositories — the pinned card below each one breaks if the repo name doesn't match exactly.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-adnan-dev&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### Inventory Management System
+MERN-based dashboard for tracking stock, processing orders, and generating reports from one place. The project I'm actively shipping features on right now.
 
-<!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
+`MongoDB` `Express` `React` `Node.js`
 
-## 🚀 Featured Projects
+<a href="https://github.com/md-adnan-dev/inventory-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=inventory-management-system&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+</a>
 
-> Replace `REPO-NAME-2 / 3 / 4` below with your actual repository names.
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/md-adnan-dev/inventory-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=inventory-management-system&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=0D1117&text_color=E6EDF3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/md-adnan-dev/REPO-NAME-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-2&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=0D1117&text_color=E6EDF3" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/md-adnan-dev/REPO-NAME-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-3&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=0D1117&text_color=E6EDF3" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/md-adnan-dev/REPO-NAME-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-4&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=0D1117&text_color=E6EDF3" />
-      </a>
-    </td>
-  </tr>
+### REPO-NAME-2
+One line on what this project actually does and why it exists — not just the stack it's built with.
+
+`Stack` `Goes` `Here`
+
+<a href="https://github.com/md-adnan-dev/REPO-NAME-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-2&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### REPO-NAME-3
+One line on what this project actually does and why it exists — not just the stack it's built with.
+
+`Stack` `Goes` `Here`
+
+<a href="https://github.com/md-adnan-dev/REPO-NAME-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-3&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### REPO-NAME-4
+One line on what this project actually does and why it exists — not just the stack it's built with.
+
+`Stack` `Goes` `Here`
+
+<a href="https://github.com/md-adnan-dev/REPO-NAME-4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=md-adnan-dev&repo=REPO-NAME-4&theme=github_dark&hide_border=true&title_color=58C4E0&icon_color=58C4E0&bg_color=00000000&text_color=C9D1D9" />
+</a>
+
+</td>
+</tr>
 </table>
-</div>
 
----
+<br/>
 
-<!-- ══════════════════ CONNECT ══════════════════ -->
-
-## 🤝 Connect With Me
+## 04 · Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-md--adnan--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-adnan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58C4E0?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-adnan-dev&bg_color=0D1117&color=58C4E0&line=117A8B&point=E6EDF3&area=true&area_color=0B3D5C&hide_border=true&custom_title=" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="34%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=md-adnan-dev&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58C4E0&icon_color=58C4E0&text_color=C9D1D9&include_all_commits=true&rank_icon=github" />
+</td>
+<td width="33%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-adnan-dev&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58C4E0&text_color=C9D1D9&langs_count=8" />
+</td>
+<td width="33%">
+<img width="100%" height="200" src="https://streak-stats.demolab.com?user=md-adnan-dev&hide_border=true&background=00000000&ring=58C4E0&fire=58C4E0&currStreakLabel=58C4E0&sideLabels=C9D1D9&dates=6e7681" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=md-adnan-dev&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</div>
+
+<br/>
+
+## 05 · Elsewhere
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-md--adnan--dev-0D1117?style=for-the-badge&logo=github&logoColor=58C4E0)](https://github.com/md-adnan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Gmail](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=58C4E0)](https://YOUR-PORTFOLIO.com)
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
+<div align="center">
 <br/>
-
-<!-- ══════════════════ FOOTER ══════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58C4E0,60:0a3d62,100:0D1117&height=130&section=footer" />
-
-<div align="center">
-  <sub>Built with focus by <a href="https://github.com/md-adnan-dev"><strong>Md Adnan</strong></a> · Bangladesh 🇧🇩</sub>
+<sub>Dhaka, Bangladesh · open to full-time and freelance work</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58C4E0,30:117A8B,65:0B3D5C,100:0D1117&height=140&section=footer" />
